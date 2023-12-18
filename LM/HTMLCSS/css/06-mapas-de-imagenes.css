@@ -1,0 +1,38 @@
+*{
+
+background-color: beige;
+
+}
+
+
+
+h1{
+
+text-align: center;
+
+}
+
+.cam{
+
+text-align: left;
+width: 80px;
+height: 80px;
+
+}
+
+.mapa{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 450px;
+
+}
+
+footer{
+
+text-align: right;
+
+font-size: small;
+
+}

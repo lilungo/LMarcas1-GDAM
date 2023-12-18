@@ -1,0 +1,63 @@
+*{
+
+    background-color: rgb(203, 157, 124);
+
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+   
+}
+
+.p{
+
+background-color: bisque;
+
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    background-color: rgb(203, 157, 124);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 992px;
+}
+
+article{
+
+display: flex;
+
+}
+
+
+iframe {
+    border: 2px solid black;
+    border-radius: 10%;
+    width: 100%;
+    height: 300px;
+    
+}
+
+footer{
+
+background-color: rgb(203, 157, 124) ;
+text-align: right;
+
+}
+
+.mm{
+
+    
+    text-align: right;
+
+}

@@ -1,0 +1,61 @@
+*{
+
+background-color: rgb(244, 244, 173);
+
+
+}
+
+header, main, footer {
+  
+    width: 992px;
+    text-align: center;
+}
+
+
+
+header{
+    background-color: black;
+    color: rgb(0, 0, 0);
+    padding: 25px;
+}
+
+main{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.sc1{
+
+display: flex;
+
+
+}
+
+video{
+
+width: 500px;
+
+}
+
+.div-sin{
+margin-bottom: 15px;
+margin-top: 10px;
+
+
+
+}
+
+
+
+footer{
+
+text-align: center;
+height: 15px;
+width: 15px;
+
+
+}
+

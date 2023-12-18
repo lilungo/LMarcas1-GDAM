@@ -1,0 +1,37 @@
+*{
+
+background-color: aquamarine;
+
+}
+
+h1{
+
+text-align: center;
+
+}
+
+h2{
+
+    background-color: rgb(15, 223, 164);
+    width: 250px;
+    }
+
+main{
+
+border: 3px solid black;
+border-radius: 5%;
+
+}
+
+
+
+.it{
+
+    font-style: italic;
+}
+
+.borde{
+
+width: 500px;
+text-align: center;
+}

@@ -1,0 +1,43 @@
+*{
+
+background-color: #EBD6B9;
+
+}
+
+
+h1{
+
+text-align: center;
+
+}
+
+.img1 {
+
+width: 800px;
+height: 428px;
+object-fit: cover;
+
+
+}
+
+.str, h3  {
+
+font-weight: bold;
+color: red;
+font-family: serif;
+font-style: italic;
+}
+
+.strong {
+
+margin-left: 80px;
+
+}
+
+.bombilla {
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}

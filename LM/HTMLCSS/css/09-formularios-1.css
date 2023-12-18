@@ -1,0 +1,78 @@
+*{
+
+background-color: rgb(199, 192, 247);
+
+}
+
+
+h1{
+
+text-align: center;
+background-color: rgb(162, 162, 167);
+
+
+}
+
+
+
+
+.hd-div{
+
+    display: flex;
+  flex-direction:column;
+ justify-content: center;
+ align-items: end;
+    
+   margin-top: 20px;
+    width: 300px;
+    height: 180px;
+   margin-left: 700px;
+
+}
+
+.st {
+font-style: italic;
+font-weight: bold;
+font-size: 28px;
+
+}
+
+
+
+
+
+form {
+   
+align-items: center;
+display: flex;
+flex-direction: column;
+gap: 10px;
+
+
+}
+
+.fm-div{
+
+display: flex;
+
+}
+
+.enviar{
+
+display: flex;
+flex-direction: column;
+margin-left: 200px;
+
+}
+
+.up{
+
+text-align: right;
+
+}
+
+footer{
+
+    text-align: right;
+
+}

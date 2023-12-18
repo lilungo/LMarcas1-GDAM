@@ -1,0 +1,39 @@
+*{
+ 
+  background-color: #54EBC8
+  
+}
+  h1 {
+ display: flex;
+  justify-content: center;
+  background-color: #83F0B2 ;
+}
+
+h2{
+background-color: #83F0B2;
+width:510px;
+
+}
+.p1h3{
+
+font-family:monospace;
+
+}
+
+
+.p1, .p2 {
+
+font-family: cursive;
+
+
+}
+
+
+
+
+.cpr{
+display: flex;
+font-size: small;
+justify-content: right;
+
+}

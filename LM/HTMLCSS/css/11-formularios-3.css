@@ -1,0 +1,31 @@
+*{
+
+background-color: antiquewhite;
+
+}
+
+
+.img1{
+border: 3px dotted black;
+border-radius: 10%;
+width: 400px;
+
+
+}
+
+h1{
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+main{
+
+font-family: cursive;
+
+}
+
+.f1{
+
+margin-top: 15px;
+
+}
